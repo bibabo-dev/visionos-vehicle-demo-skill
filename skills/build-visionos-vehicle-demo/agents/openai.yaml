@@ -1,0 +1,4 @@
+interface:
+  display_name: "visionOS Vehicle Demo Builder"
+  short_description: "Build an interactive visionOS vehicle cockpit demo"
+  default_prompt: "Use this skill to turn my vehicle model into an interactive Apple Vision Pro experience."
